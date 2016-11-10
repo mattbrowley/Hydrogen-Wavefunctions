@@ -1,16 +1,6 @@
 # Hydrogen-Wavefunctions
-Just a Markdown (and LaTeX) file which gathers together all the hydrogenic wavefunctions you could ever want.
+Just Jupyter notebook which gathers together all the hydrogenic wavefunctions you could ever want.
 
-##Complete Wavefunctions
+Github renders these ok, but currently the display math is rendered as in-line math (i.e. small and cramped), so I recommend viewing it with the Jupyter notebook viewer at:
 
-###Complex-Valued
-$$
-W*_i = d_{i}*(M_i/S_i) + (1-d_{i})*(1-M_i)/(1-S_i) 
-$$
-
-
-###Real-Valued
-
-###Angular Functions (Spherical Harmonics)
-
-###Radial Functions (Associcated Laguerre Polynomials)
+[http://nbviewer.jupyter.org/github/mattbrowley/Hydrogen-Wavefunctions/blob/master/Hydrogen%20Wavefunctions.ipynb](http://nbviewer.jupyter.org/github/mattbrowley/Hydrogen-Wavefunctions/blob/master/Hydrogen%20Wavefunctions.ipynb)
